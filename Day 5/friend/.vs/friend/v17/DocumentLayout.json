@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Cpp\\Day 5\\friend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95CD9BC4-0170-454A-9EAD-493E2BB73DB4}|friend.vcxproj|D:\\Coding\\Cpp\\Day 5\\friend\\friend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95CD9BC4-0170-454A-9EAD-493E2BB73DB4}|friend.vcxproj|solutionrelative:friend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "friend.cpp",
+              "DocumentMoniker": "D:\\Coding\\Cpp\\Day 5\\friend\\friend.cpp",
+              "RelativeDocumentMoniker": "friend.cpp",
+              "ToolTip": "D:\\Coding\\Cpp\\Day 5\\friend\\friend.cpp",
+              "RelativeToolTip": "friend.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T11:28:58.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
