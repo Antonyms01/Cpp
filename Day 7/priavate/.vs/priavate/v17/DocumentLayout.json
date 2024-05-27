@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Cpp\\Day 7\\priavate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F59A7-089B-471A-8E4B-800A416BEE44}|priavate.vcxproj|D:\\Coding\\Cpp\\Day 7\\priavate\\priavate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C9F59A7-089B-471A-8E4B-800A416BEE44}|priavate.vcxproj|solutionrelative:priavate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "priavate.cpp",
+              "DocumentMoniker": "D:\\Coding\\Cpp\\Day 7\\priavate\\priavate.cpp",
+              "RelativeDocumentMoniker": "priavate.cpp",
+              "ToolTip": "D:\\Coding\\Cpp\\Day 7\\priavate\\priavate.cpp",
+              "RelativeToolTip": "priavate.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T13:21:25.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
