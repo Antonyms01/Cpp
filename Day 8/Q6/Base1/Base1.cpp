@@ -1,0 +1,19 @@
+//6) create a Base1 and Base2 classes in the library.
+//constructors, member variables and functions you can have in the above classes of 
+//your choice.
+//
+//now create a client application where you have to create a child class by the name 
+//"Sub" of above classes.
+//in the main function create an instance of child class and try to access methods 
+//of Base1 and Base2.
+
+#include<iostream>
+#include "Header.h"
+using namespace std;
+
+ 
+Base1::void fun()
+{
+	cout << "Inside FUn" << endl;
+}
+
