@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Cpp\\Day 11\\Q5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64BA7EE-682C-4CF7-BD11-33E619AACA8D}|Q5.vcxproj|D:\\Coding\\Cpp\\Day 11\\Q5\\Q5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D64BA7EE-682C-4CF7-BD11-33E619AACA8D}|Q5.vcxproj|solutionrelative:Q5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q5.cpp",
+              "DocumentMoniker": "D:\\Coding\\Cpp\\Day 11\\Q5\\Q5.cpp",
+              "RelativeDocumentMoniker": "Q5.cpp",
+              "ToolTip": "D:\\Coding\\Cpp\\Day 11\\Q5\\Q5.cpp",
+              "RelativeToolTip": "Q5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T12:34:41.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
