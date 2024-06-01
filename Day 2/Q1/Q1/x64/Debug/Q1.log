@@ -1,0 +1,3 @@
+﻿  Q1.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Coding\Cpp\Day 2\Q1\x64\Debug\Q1.exe : fatal error LNK1120: 1 unresolved externals

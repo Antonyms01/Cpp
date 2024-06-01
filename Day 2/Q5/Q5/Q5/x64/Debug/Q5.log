@@ -1,0 +1,7 @@
+﻿  Q5.cpp
+D:\Coding\Cpp\Day 2\Q5\Q5\Q5.cpp(89,2): error C2660: 'disp': function does not take 3 arguments
+  D:\Coding\Cpp\Day 2\Q5\Q5\Q5.cpp(84,6):
+  see declaration of 'disp'
+  D:\Coding\Cpp\Day 2\Q5\Q5\Q5.cpp(89,2):
+  while trying to match the argument list '(char, char, char)'
+  
